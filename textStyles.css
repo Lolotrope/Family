@@ -29,6 +29,13 @@
     color: rgb(48, 191, 48);
 }
 
+.autorName
+{
+    color: black;
+    font-size: 35px;
+    font-family: Roboto;
+}
+
 @font-face
 {
     font-family: "Roboto";
